@@ -1,7 +1,7 @@
 # finedustApp
 >한국환경공단이 제공하는 대기오염 및 측정소 정보 API를 사용한 내 위치 기반 미세먼지 정보 어플리케이션 (Android Only)
 
-[Apk-download]()
+[Apk-download](https://github.com/hwisulee/finedustApp/raw/main/FinedustAlarm/app/release/app-release.apk)
 
 ## Table of Contents
 1. [Preview](#preview)
