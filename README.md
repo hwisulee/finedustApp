@@ -10,8 +10,17 @@
 
 
 <h2 id="preview">Preview</h2>
+1. 실행시 gps 기반 현재 내 위치로 정보 가시화
 
+![preview1](https://user-images.githubusercontent.com/62528282/168412753-5c2fc44d-4636-4b5e-8de2-ddc5fca3cf05.gif)
 
+2. MPAndroidChart를 사용한 데이터 가시화
+
+![preview2](https://user-images.githubusercontent.com/62528282/168412755-eaddcca3-5884-4d67-a94b-1a619c0a5857.gif)
+
+3. Kakao Maps API를 사용한 측정소 위치 및 내 위치 가시화
+
+![preview3](https://user-images.githubusercontent.com/62528282/168412756-b90e3344-f30b-4a91-abd1-bfca5b33d215.gif)
 
 <h2 id="library">Library</h2>
 
