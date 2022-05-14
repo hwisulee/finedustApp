@@ -1,6 +1,18 @@
 # finedustApp
 >한국환경공단이 제공하는 대기오염 및 측정소 정보 API를 사용한 내 위치 기반 미세먼지 정보 어플리케이션 (Android Only)
 
+<pre>
+<code>
+주제 : 공공데이터를 사용한 어플리케이션 제작</br>
+설명 : 한국환경공단이 제공하는 미세먼지 공공데이터를 사용해 스마트폰 GPS기반 미세먼지 예보 어플리케이션 구축</br>
+팀 인원 : 3명</br>
+맡은 역할 : 앱 개발</br>
+개발 기간 : '22.03.08 ~ '22.04.07</br>
+개발 언어 : Java</br>
+개발 환경 : Windows 10 pro, Android Studio Bumblebee
+</code>
+</pre>
+
 [Apk-download](https://github.com/hwisulee/finedustApp/raw/main/FinedustAlarm/app/release/app-release.apk)
 
 ## Table of Contents
