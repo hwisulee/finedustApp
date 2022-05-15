@@ -9,7 +9,7 @@
 맡은 역할 : 앱 개발</br>
 개발 기간 : '22.03.08 ~ '22.04.07</br>
 개발 언어 : Java</br>
-개발 환경 : Windows 10 pro, Android Studio Bumblebee
+개발 환경 : Windows 10 pro, Jdk 1.8, Android Studio Bumblebee
 </code>
 </pre>
 
