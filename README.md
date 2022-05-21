@@ -13,7 +13,7 @@
 </code>
 </pre>
 
-[Apk-download](https://github.com/hwisulee/finedustApp/raw/main/FinedustAlarm/app/release/app-release.apk)
+[APK Download](https://github.com/hwisulee/finedustApp/raw/main/FinedustAlarm/app/release/app-release.apk)
 
 ## Table of Contents
 1. [Preview](#preview)
